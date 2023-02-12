@@ -1,0 +1,178 @@
+.overlap{
+    height: 550px;
+    width: 400px;
+    background-color:#d8d6d6;
+    color: rgb(94, 90, 90);
+    top: 20px;
+    left: 900px;
+    position: absolute;
+
+}
+.font1{
+    position: absolute;
+    top: 50px;
+    padding: 30px;
+    
+
+
+}
+#bt{
+    position: absolute;
+    left:300px;
+    top: 400px;
+    border: 2px;
+    border-color: black;
+
+}
+.footer{
+    position: relative;
+ 
+    background-color: #1c1e1f;
+    width: 1900px;
+    height: 400px;
+    top: 100px;
+
+}
+.fl{
+display: flex;
+
+gap: 10px;
+padding: 10px;
+
+}
+
+.messege{
+    position: relative;
+    height:100px;
+    width: 1530px;
+    padding: 10px;
+   left: 10px;
+}
+.sub{
+    position: relative;
+    left: 10px;
+    top: 10px;
+    display: flex;
+    flex-direction: column;
+
+}
+.foot{
+  color:rgb(199, 193, 193);
+  position: relative;
+  top: 15px;left: 30px;
+ } 
+ .pcontent{
+    position: relative;
+    left: 10px;
+    top: 20px;
+    padding: 20px;
+    
+       color:rgb(199, 194, 194); 
+    } 
+.formle{
+    position: relative;
+    left: 100px;
+    bottom: 50px;
+}
+.mid{
+    background-color: rgb(211, 212, 211);
+    display: flex;
+    flex-direction: column;
+   
+    padding: 80px;
+  margin: 10 10 10 10px;
+    position: relative;
+    length: 900px;
+}
+tr{
+    position: relative;
+  top: 40px;
+  bottom: 50px;
+  left: 100px;
+  padding: 50px;
+
+   
+
+}
+.black{
+    background-color: black;
+    height: 100px;
+    width: 1880px;
+    left: 10px;
+    position: absolute;
+
+
+}
+.bm{
+    position: absolute;
+    width:500px;
+    height: 500px;
+    left: 300px;
+    top: 950px;
+}
+.midtext{
+    position: absolute;
+    left: 850px;
+    top: 1050px;
+}
+.bott .bottimg{
+    length: 700px;
+    width:400px;
+    position: relative;
+    left: 200px;
+    top: 600px;
+}
+.botttext{
+    background-color:black;
+    height: 300px;
+    width: 400px;
+    position: relative;
+    left: 601px;
+    top: 300px;
+    color: rgb(216, 212, 212);
+    font: italic;
+}
+.botthead{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.botext{
+    position: relative;
+    top: 30px;
+    left: 20px;
+
+}
+.bottarea{
+    position: relative;
+    top: 30px;
+    height: 300px;
+    width: 310px;
+    left: 1200px;
+
+}
+.btext {
+    position: relative;
+    bottom: 20px;
+}
+.in{
+    position: relative;
+    length:600px;
+    width: 450px;
+   padding: 10px;
+
+}
+.group {
+    position: relative;
+    display: flex;
+    left: 10px;
+    top: 50px;
+    
+}
+.connect{
+    position: relative;
+    top:20px;
+    left: 20px;
+    bottom: 50px;
+
+}
